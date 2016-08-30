@@ -1,4 +1,8 @@
 #!/bin/sh
+
+set -v                                                                                                                                 
+set -x
+	 
 #
 # Run docker-compose within 'ddd'
 #

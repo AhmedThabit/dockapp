@@ -1,5 +1,8 @@
 #! /bin/sh
 
+set -v                                                                                                                                 
+set -x                                                                                                                                 
+
 ### Preparation for actual docker-framework
 
 SELFDIR=`dirname "$0"`
